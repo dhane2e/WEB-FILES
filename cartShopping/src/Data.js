@@ -1,0 +1,58 @@
+let shopItemsData = [
+  {
+    id: "jfhgbvnscs",
+    name: "Butter Chicken Masala",
+    price: 360,
+    desc: "Chunky chicken marinated and sauted in a creamy gravy with Indian spices...",
+    img: "src/images/img-1.avif",
+  },
+  {
+    id: "ioytrhndcv",
+    name: "Hyderabadi Chicken 65",
+    price: 250,
+    desc: "Chicken marinated with spices, deep fried and then tempered in yoghurt...",
+    img: "src/images/img-2.avif",
+  },
+  {
+    id: "wuefbncxbsn",
+    name: "Hyderabadi Dum Chicken Biryani",
+    price: 315,
+    desc: "Delicious and spicy dum style Hyderabadi Chicken Biryani. Soft succulent ... ",
+    img: "src/images/img-3.avif",
+  },
+  {
+    id: "thyfhcbcv",
+    name: "Tandoori Chicken [Half]",
+    price: 380,
+    desc: "Chicken dish prepared by roasting chicken marinated in yoghurt and spices...",
+    img: "src/images/img-4.avif",
+  },
+  {
+    id: "thyfhcbcve",
+    name: "Prawns Biryani Masala",
+    price: 399,
+    desc: "Spicy rice dish cooked in mouth-watering prawn curry yoghurt and spices...",
+    img: "src/images/img-5.avif",
+  },
+  {
+    id: "thyfhcbcvr",
+    name: "Tandoori Chicken [Half]",
+    price: 380,
+    desc: "Chicken dish prepared by roasting chicken marinated in yoghurt and spices...",
+    img: "src/images/img-6.avif",
+  },
+  {
+    id: "thyfhcbcvt",
+    name: "Big Spicy Chicken Wrap",
+    price: 220,
+    desc: "Tender and juicy chicken patty coated in spicy, crispy batter, topped with...",
+    img: "src/images/img-7.avif",
+  },
+  {
+    id: "thyfhcbcvy",
+    name: "McChicken Burger",
+    price: 131,
+    desc: "Tender and juicy chicken patty cooked to perfection, with creamy mayonnaise...",
+    img: "src/images/img-8.avif",
+  },
+];
